@@ -1,0 +1,3 @@
+#!/bin/bash
+file="C:/Users/ViniVasundharan/.ssh/id_rsa_signed"
+echo $1 $2>$file
